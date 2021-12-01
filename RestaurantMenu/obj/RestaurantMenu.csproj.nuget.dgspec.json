@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\neilh\\source\\repos\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu.csproj": {}
+    "C:\\Users\\neilh\\Codecamp\\csharp-practice\\chapter-5\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\neilh\\source\\repos\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu.csproj": {
+    "C:\\Users\\neilh\\Codecamp\\csharp-practice\\chapter-5\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\neilh\\source\\repos\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu.csproj",
+        "projectUniqueName": "C:\\Users\\neilh\\Codecamp\\csharp-practice\\chapter-5\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu.csproj",
         "projectName": "RestaurantMenu",
-        "projectPath": "C:\\Users\\neilh\\source\\repos\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu.csproj",
+        "projectPath": "C:\\Users\\neilh\\Codecamp\\csharp-practice\\chapter-5\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu.csproj",
         "packagesPath": "C:\\Users\\neilh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\neilh\\source\\repos\\RestaurantMenu\\RestaurantMenu\\obj\\",
+        "outputPath": "C:\\Users\\neilh\\Codecamp\\csharp-practice\\chapter-5\\RestaurantMenu\\RestaurantMenu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\neilh\\AppData\\Roaming\\NuGet\\NuGet.Config",
